@@ -28,6 +28,11 @@ Copy the example env file and make the required configuration changes in the .en
 cp .env.example .env
 ```
 
+Please don't forget to mention MERCHANT EMAIL in .env file in MERCHANT_MAIL
+```
+MERCHANT_MAIL=
+```
+
 Generate a new application key
 
 ```
